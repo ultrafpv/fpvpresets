@@ -1,4 +1,11 @@
-
+#preflight-preset-v0.1
+#AUTHOR: UAVtech
+#DESCRIPTION:
+#REQUIREMENTS_START
+#FIRMWARE: betaflight
+#MAIN_VERSION: 3.4
+#SUB_VERSION: ANY
+#REQUIREMENTS_END
 
 set rc_interp_ch = RPYT
 set rc_smoothing_type = FILTER
