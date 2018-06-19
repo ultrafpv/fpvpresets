@@ -1,0 +1,5 @@
+set gyro_lowpass_hz = 120
+set gyro_lowpass2_hz = 300
+
+set dterm_lowpass_hz = 100
+set dterm_lowpass2_hz = 200
