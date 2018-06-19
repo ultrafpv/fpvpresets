@@ -1,3 +1,11 @@
+#preflight-preset-v0.1
+#AUTHOR: UAVtech
+#DESCRIPTION:
+#REQUIREMENTS_START
+#FIRMWARE: betaflight
+#MAIN_VERSION: 3.4
+#SUB_VERSION: ANY
+#REQUIREMENTS_END
 set gyro_lowpass_hz = 120
 set gyro_lowpass2_hz = 300
 
