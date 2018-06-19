@@ -1,2 +1,2 @@
-# betaflight-presets
-Presets repo for Flight Controller Firmware Presets
+# firmware-presets
+Repository for Flight Controller Firmware Presets
