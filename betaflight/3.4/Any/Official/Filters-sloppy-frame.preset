@@ -1,0 +1,14 @@
+#preflight-preset-v0.1
+#AUTHOR: ctzsnooze
+#DESCRIPTION: A beat up quad on a sloppy frame that often is flown with bent props
+#REQUIREMENTS_START
+#FIRMWARE: betaflight
+#MAIN_VERSION: 3.4
+#SUB_VERSION: ANY
+#REQUIREMENTS_END
+set gyro_lowpass_type = PT1 
+set gyro_lowpass_hz = 90 
+set gyro_lowpass2_type = PT1 
+set gyro_lowpass2_hz = 180 
+set dterm_lowpass_hz = 70 
+set dterm_lowpass2_hz = 140
