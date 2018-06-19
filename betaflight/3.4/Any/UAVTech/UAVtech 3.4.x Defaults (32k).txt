@@ -1,11 +1,12 @@
-set gyro_lowpass_hz = 90
-set gyro_lowpass2_hz = 300
+#preflight-preset-v0.1
+#AUTHOR: UAVtech
+#DESCRIPTION:
+#REQUIREMENTS_START
+#FIRMWARE: betaflight
+#MAIN_VERSION: 3.4
+#SUB_VERSION: ANY
+#REQUIREMENTS_END
 
-set dterm_lowpass_hz = 80
-set dterm_lowpass2_hz = 160
-
-set setpoint_relax_ratio = 10
-set dterm_setpoint_weight = 100
 
 set throttle_boost = 50
 
