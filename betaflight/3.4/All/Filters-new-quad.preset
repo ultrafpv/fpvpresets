@@ -1,0 +1,9 @@
+#preflight-preset-v0.1
+#Author: ctzsnooze
+#Descrption: A really good quad with a very solid frame, new motors, and only ever flown with clean well balanced light props
+set gyro_lowpass_type = PT1
+set gyro_lowpass_hz = 150
+set gyro_lowpass2_type = PT1
+set gyro_lowpass2_hz = 400
+set dterm_lowpass_hz = 100
+set dterm_lowpass2_hz = 250
