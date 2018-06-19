@@ -4,7 +4,7 @@
 #REQUIREMENTS-START
 #FIRMWARE: betaflight
 #MAIN_VERSION: 3.4
-#SUB-VERSION; ANY
+#SUB_VERSION; ANY
 #REQUIREMENTS-END
 set gyro_lowpass_type = PT1
 set gyro_lowpass_hz = 150
