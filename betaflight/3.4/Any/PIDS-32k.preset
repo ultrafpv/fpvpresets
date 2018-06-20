@@ -1,0 +1,46 @@
+#preflight-preset-v0.1
+#AUTHOR: UAVtech
+#DESCRIPTION:
+#REQUIREMENTS_START
+#FIRMWARE: betaflight
+#MAIN_VERSION: 3.4
+#SUB_VERSION: ANY
+#REQUIREMENTS_END
+
+
+set throttle_boost = 50
+
+set throttle_boost_cutoff = 40
+
+
+set rc_interp_ch = RPYT
+set rc_smoothing_type = FILTER
+set rc_smoothing_input_hz = 25
+set rc_smoothing_derivative_hz = 25
+
+set iterm_relax = RP
+
+set p_roll = 42
+
+set i_roll = 45
+
+set d_roll = 22
+
+set p_pitch = 44
+
+set i_pitch = 50
+
+set d_pitch = 23
+
+set p_yaw = 65
+
+set i_yaw = 45
+
+
+
+set tpa_rate = 15
+
+set tpa_breakpoint = 1050
+
+set throttle_limit_type = CLIP
+set throttle_limit_percent = 95
