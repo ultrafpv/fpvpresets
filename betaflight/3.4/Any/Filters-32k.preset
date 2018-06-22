@@ -12,15 +12,3 @@ set gyro_lowpass2_hz = 300
 
 set dterm_lowpass_hz = 80
 set dterm_lowpass2_hz = 160
-
-set gyro_lowpass_type = BIQUAD
-set gyro_lowpass2_type = BIQUAD
-set dterm_lowpass_type = BIQUAD
-
-set gyro_notch1_hz = 91
-set gyro_notch1_cutoff = 102
-set gyro_notch2_hz = 93
-set gyro_notch2_cutoff = 104
-set dterm_notch_hz = 105
-set dterm_notch_cutoff = 96
-set yaw_lowpass_hz = 97
